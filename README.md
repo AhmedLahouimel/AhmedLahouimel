@@ -20,7 +20,6 @@
 💡 Passionate about **software engineering** and building practical web applications.  
 🌐 I enjoy developing **full-stack solutions** with a focus on clean, user-friendly experiences.  
 🤝 Always interested in **learning, collaborating, and bringing ideas to life**.  
-📍 Based in **Tunisia**.
 
 ---
 
