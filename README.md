@@ -1,114 +1,88 @@
-<div align="center">
+<!-- GitHub Profile README — Ahmed Lahouimel -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:175A87,100:22D3EE&amp;height=210&amp;section=header&amp;text=Ahmed%20Lahouimel&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&amp;descSize=17&amp;descAlignY=60" width="100%" alt="Ahmed Lahouimel" />
-
-<a href="https://github.com/AhmedLahouimel"><img src="https://img.shields.io/badge/GitHub-AhmedLahouimel-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ahmed-lahouimel-2252473a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=0891B2&amp;center=true&amp;vCenter=true&amp;width=660&amp;lines=Welcome+to+my+GitHub+profile!;Angular+%7C+Spring+Boot+%7C+Symfony;Building+web+and+desktop+applications" alt="Animated intro" />
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=AhmedLahouimel&label=Profile%20views&color=2374ab&style=flat" alt="Profile views" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/AhmedLahouimel">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1300&color=397BFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Lahouimel;Software+Engineering+Student+%40+ESPRIT;Full-Stack+Web+Developer" alt="Hi, I'm Ahmed Lahouimel" />
+  </a>
+</div>
+
+<br>
 
 ---
 
 ## 👋 About Me
 
-I'm a **Software Engineering student at ESPRIT** in Tunisia, passionate about building reliable, user-friendly web and desktop applications.
+🎓 I'm **Ahmed Lahouimel**, a **Software Engineering student at ESPRIT**.  
+💡 Passionate about **software engineering** and building practical web applications.  
+🌐 I enjoy developing **full-stack solutions** with a focus on clean, user-friendly experiences.  
+🤝 Always interested in **learning, collaborating, and bringing ideas to life**.  
+📍 Based in **Tunisia**.
 
-- 🔭 Exploring **full-stack development** and software engineering
-- 💻 Working with **Angular, Spring Boot, Symfony, Java & PHP**
-- 🤝 Enjoying teamwork, problem-solving and version control with **Git**
-- 🌍 Based in **Tunisia**
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-lahouimel-2252473a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AhmedLahouimel)
 
 ---
 
 ## ⚡ Tech Stack
 
+### 🔹 Languages & Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br>Java</td>
+    <td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP"/><br>PHP</td>
+    <td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>C</td>
+    <td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br>C++</td>
+    <td align="center" width="105"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/><br>C#</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/><br>Spring Boot</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48" height="48" alt="Angular"/><br>Angular</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony"/><br>Symfony</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/><br>Flutter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="JavaFX"/><br>JavaFX</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="48" height="48" alt="Qt"/><br>Qt</td>
+  </tr>
+</table>
+
+### 🔹 Databases
+
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br>MySQL</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/><br>Oracle</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase"/><br>Firebase</td>
+  </tr>
+</table>
+
+### 🔹 Tools & Technologies
+
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br>Git</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br>GitHub</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="48" height="48" alt="Ubuntu"/><br>Ubuntu</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br>Bootstrap</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,cs,js,php,html,css" alt="Programming languages" />
-
-**Frameworks & Technologies**
-
-<img src="https://skillicons.dev/icons?i=angular,spring,symfony,flutter,qt" alt="Frameworks" />
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,ubuntu" alt="Tools" />
-
-*Also: Oracle · PL/SQL · JavaFX · Qt Designer · Twig · Bootstrap · SDL*
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedLahouimel&theme=github-dark-blue&hide_border=true" alt="Ahmed's GitHub contribution streak" />
 </div>
 
----
-
-## 💼 Professional Experience
-
-### Web Developer Intern · Vaerdia Solutions
-**Tunisia | June – August 2026**
-
-- Contributed to web application development and improvements.
-- Applied web development and database skills in a professional environment.
-- **Stack:** `Angular` `Spring Boot` `MySQL` `Git`
-
-### Web Developer Intern · Diva Software
-**Sousse, Tunisia | June – August 2024**
-
-- Created web pages and small web projects.
-- Practiced front-end and back-end development.
-- **Stack:** `HTML` `CSS` `JavaScript` `PHP`
-
----
-
-## 🚀 Featured Projects
-
-### 💳 Finovate — FinTech Platform
-Web platform for investments and financing project management, with business features and data management.
-
-**Stack:** `Symfony` `PHP` `MySQL` `Twig` `Bootstrap`  
-*ESPRIT · 2025–2026*
-
-### 💰 Financial Management Application
-Desktop application with a graphical user interface for financial data management.
-
-**Stack:** `Java` `JavaFX` `MySQL`  
-*ESPRIT · 2025–2026*
-
-### 📚 SkillBoost — Educational Platform
-Collaborative platform for learning and sharing educational resources.
-
-**Stack:** `PHP` `Web Technologies` `Database`  
-*ESPRIT · Academic project*
-
-### 🛍️ Boutique Management Application
-Desktop point-of-sale system for managing a clothing store.
-
-**Stack:** `C++` `Qt Designer`  
-*ESPRIT · Academic project*
-
-<details>
-<summary><b>🎮 More projects — Event Platform & SDL Game</b></summary>
-
-Event participation and user account management, plus a first-year game project.
-
-**Stack:** `PHP` `MySQL` `HTML` `CSS` `C/C++` `SDL` `Ubuntu`
-
-</details>
-
----
-
 <div align="center">
-
-### 🌐 Let's Connect
-
-<a href="https://www.linkedin.com/in/ahmed-lahouimel-2252473a0/"><img src="https://img.shields.io/badge/Contact%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-
-<br />
-
-*Thanks for visiting my profile! 🚀*
-
+  <sub>Thanks for visiting my profile! 🚀</sub>
 </div>
