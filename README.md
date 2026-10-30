@@ -1,9 +1,5 @@
 <!-- GitHub Profile README — Ahmed Lahouimel -->
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=AhmedLahouimel&label=Profile%20views&color=2374ab&style=flat" alt="Profile views" />
-</div>
-
 <div align="center">
   <a href="https://github.com/AhmedLahouimel">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1300&color=397BFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Lahouimel;Software+Engineering+Student+%40+ESPRIT;Full-Stack+Web+Developer" alt="Hi, I'm Ahmed Lahouimel" />
